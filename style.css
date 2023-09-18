@@ -1,0 +1,55 @@
+body {
+   background-color: Lavender ;
+   font-family: 'Sacramento', cursive;
+}
+
+.Fiqi {
+  display: inline-flex;
+  font-size: 25px;
+  font-weight: 700;
+  padding: 10px;
+  gap: 2rem;
+  color: hwb(216 0% 58%);
+  
+}
+
+  li {
+    list-style: none;
+    padding: 20px;
+    margin: 10px;
+  }
+
+  img  {
+    width: 100px;
+    height: 150px;
+    
+  }
+  .content {
+    gap: 2rem;
+    flex: 1;
+    max-width: 400px;
+    padding: 30px;
+    margin: 30px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+p {
+    color: black;
+    
+}
+.bottom-container {
+  background-color: Lavender;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;  background-color:#66BFBF;
+  padding:100px 0 20px;
+  width:100%;
+  margin-top:100px auto 100px;
+
+  }
+
+
+
+
+  
